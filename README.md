@@ -24,5 +24,3 @@ The project folder resembles the following structure:
   * tb: VHDL testbench files
 * active_hdl: Active-HDL project folder
 * vivado_synth: Vivado project folder
-
-The design workflow can be found in the [report](https://github.com/gabrielebaris/IIRAudioFilterFPGA/blob/master/report/report.pdf) file.
