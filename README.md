@@ -11,9 +11,9 @@ Refer to a possible 16-bit wav format.
 
 ## Tools
 The tools used for the project were
-* [MATLAB R2017a](https://it.mathworks.com/products/matlab.html) for modeling
+* [MATLAB R2021a](https://it.mathworks.com/products/matlab.html) for modeling
 * [Active-HDL Student Edition](https://www.aldec.com/en/products/fpga_simulation/active_hdl_student) for VHDL implementation and testbenches
-* [Vivado HLx Edition 2017.1](https://www.xilinx.com/products/design-tools/vivado.html) for synthesis on FPGA
+* [Vivado HLx Edition 2020.1](https://www.xilinx.com/products/design-tools/vivado.html) for synthesis on FPGA
 
 ## Project structure
 The project folder resembles the following structure:
